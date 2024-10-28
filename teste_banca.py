@@ -9,7 +9,10 @@ scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/au
          "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
 
 # Substitua 'path_to_credentials.json' pelo caminho para seu arquivo de credenciais JSON
-creds = ServiceAccountCredentials.from_json_keyfile_name("bradock-439712-96c908d1ee57.json", scope)
+credentials_json = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+creds = service_account.Credentials.from_service_account_info(
+    json.loads(credentials_json), scopes=scope
+)
 client = gspread.authorize(creds)
 
 
