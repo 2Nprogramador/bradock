@@ -1,0 +1,5 @@
+streamlit~=1.36.0
+pandas~=2.2.2
+datetime~=5.5
+gspread~=6.1.4
+oauth2client~=4.1.3

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bradock-439712",
+  "private_key_id": "96c908d1ee5714a091d8c6454a4f52bd9efe868e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC95ZwX00PIVrH3\nvFOlS5B0A6heuNStDvGfKI7BW9gw0Vodf/S+0VRhteb1QX0fPSQb/WZcogazewPx\nDGJAYMqLhmtdfeXkD7vSYUDTdVR/qc3wA6D4+c57dw4WtiYdMF8gyPZPQ+w1ML2b\nQH4myRESr8rLAyMZvjlyuiUpMHYS0iiO2peqQz9rapSQwco6y+KGM6EYbmxw2LXn\nsT68wyiOitDLaOfPKSY2zkAQ51XHTWD2NcAcMMjuMLeh+QWixYK4yDlZVAv2VQMd\n8lmXhGXm+onSp5IdRrA5XRkY7vcbe4nDG67x89Nyt1kzpNUtULKUYt4SCt5B7z6t\nAxwWO/wjAgMBAAECggEACPwdsWo6DqG8zutsC79Hs5g0Cwifa3FwZjxC24w5w5Q2\n5CbDO5S884M/TRhkT/+SaflIiBZ/JFaBiRIHGLkGVv6tAsyWUtREaepXE7Tn+Bhe\nhD4vth1fsyt0EQgHmqGeG/eA4UmQmghXLaAqDTITQDlCv5iY5xAUjhns8IYjTWBA\nzRw/1L6LSIzTV5vkjO6c9KLAlEWH/QtvDFDUKBkZg6PKtHsG/bXc3dX/scgiNGUJ\ns91PazeLeufIIfU83+hpQsh7QChReXXxW2o0eJNvW0B6zz5ETZ+9vLUbVuGPvlkw\n1OAmrSiCQzt0c7WmHUAkfSqoAVwwmEeChd4dhID/WQKBgQD84ONDpQhv2+Mjx7qK\nvgvqrop5OpnwBIz7/701xsi7qLf0oMuhYV+KY0O8k3mtmFDn6JtvodHiLYcpsAm8\nmmB2NwbzjinYIt5L/NTdHpWme6ZtjczXN59rCZTwnPAXoyRK5e3/cKMwBg6EGUkf\nT18Z+JROlj4ryRct95xrNCTFywKBgQDAPbI7S3E26oNj7OFsTbEaZm2uoKGfT7ys\nGSQIAPN7MCfzBsPKfS7YteZiiiuY+ghP3VGcrV4IMV/QGIqee4bCks+Q85zhBj53\ngJbCn7cfZ9HQecSgykSRwAY8/MR3Xw5KUgOMh6SX1SWTqWx4dy202HmwoSQk34Kz\n0Bxz7nIYCQKBgQCQgMode48IrLRtW9LDObqBjt/eSphwyYju78LlmgRXCCCmj8QN\nIiGAaRzqA7QCeQmym/9GmUfgYXfdYJUPy3/XzbYRM2nB8pro/T9+Y93MVthRvjgR\nu91DQyRzIpsoRreUfTO1Rl5aMPvWjMR2Odr0clH9XmmEh9LRF6+wqwlgZQKBgFBO\nNZMhe8TWCFcI0E4+0jnWCgGF5p43X/iAdBXH1+5g+n9CFy4SRyyOKBSH5Zh88lXy\nfTI3Fe3UOlMivV1g+rVzQLQroCA8TIH9PH1G3OeIphQxmdsVQ7mi/rghWy0Gj2Cq\njAL7ct1eU9kwUDiuiHBgcc1AM2oX2HCnAgvH0u+JAoGAYDgcUnjA/4naJ7qFPLf8\ny8EjMM+EpbVgeXeCJX9UwMaK4u4yHG1CI/840H1MkKG1YcKFZJcfoZPZXLfVH1I/\n79vMS/Bob+xXKwMNjlKLmfNnxuVOBTRUJSouWJM6XvL6TmJgm3cYmfrrkWEGDfUw\nh8lkH9pRYH3P1Sj/6JW2Ddg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bradock@bradock-439712.iam.gserviceaccount.com",
+  "client_id": "109169020347883952384",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bradock%40bradock-439712.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
